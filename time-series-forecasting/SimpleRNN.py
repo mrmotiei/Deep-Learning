@@ -19,7 +19,6 @@ model.add(Dense(1))
 
 model.compile(loss='mean_absolute_error',optimizer='adam')
 
-
 # e.g.
 #seqence = 3 steps
 #[
